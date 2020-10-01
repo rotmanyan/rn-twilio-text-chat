@@ -114,6 +114,3 @@ channel.onMemberAdded = (member) => console.log(member.identity + " joined " + c
 ````
 
 ## [Documentation](docs)
-
-## License
-This project is licensed under the [MIT License](LICENSE).
